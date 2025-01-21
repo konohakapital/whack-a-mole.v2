@@ -31,9 +31,6 @@ const moleImages = [
 ];
 
 const whackerImages = [
-    'https://example.com/whacker1.png',
-    'https://example.com/whacker2.png',
-    'https://example.com/whacker3.png',
 ];
 
 export default function Game({ 
